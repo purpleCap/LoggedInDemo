@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.card {
+  width: 30%;
+  padding: 15px;
+  align-self: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
